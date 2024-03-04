@@ -4,7 +4,7 @@ This is stack i working on
 
 <div align="center">
 
-  <h3 align="center">LangChain-LearningPlatform - Get knowledge about modern AI technology!</h3>
+  <h3 align="center">My Fullstack tech's</h3>
   <div>
     <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=072485" alt="react" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
