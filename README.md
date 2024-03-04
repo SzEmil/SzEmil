@@ -27,7 +27,7 @@ This is stack i working on
 
 - 🔭 I’m currently working on ecommerce app in my work and full stack ai powered app called pixel-perfect.
 - 🌱 I’m currently learning devops: terraform, aws, jenkins.
-- 📫 How to reach me: Here in link down below
+- 📫 How to reach me: Here ->
  📱 <a href="https://www.linkedin.com/in/emil-szymczyk-209613209/">linkedin</a>
  📧 email: emil-szymczyk2@wp.pl
 
