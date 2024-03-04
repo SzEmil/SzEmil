@@ -24,7 +24,7 @@ This is stack i working on
   </div>
 
 </div>
-##
+
 - 🔭 I’m currently working on ecommerce app in my work and full stack ai powered app called pixel-perfect.
 - 🌱 I’m currently learning devops: terraform, aws, jenkins.
 - 📫 How to reach me: Here in link down below
